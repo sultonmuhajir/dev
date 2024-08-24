@@ -9,12 +9,12 @@
 
 ### Web Project
 
--  [Data Analyst (Netflix)](https://www.notion.so/Data-Analyst-Analisis-Konten-Netflix-f25cf40ea4384f2eac7f0088eefad5fe?pvs=21) — Analisis konten netflix
--  [Data Analyst (Amazon)](https://www.notion.so/Data-Analyst-Analisis-Penjualan-Amazon-60c75e89688a45d5986cd2b55706dca3?pvs=21) — Analisis penjualan amazon
--  [Data Science (Jantung)](https://www.notion.so/Data-Science-Klasifikasi-Gagal-Jantung-91748e5dd08c4bc28a97f44c3db2725a?pvs=21) — Klasifikasi gagal jantung (knn & naive bayes)
--  [Data Science (Apel)](https://www.notion.so/Data-Science-Klasifikasi-Kualitas-Apel-f8412474681f4d53a2799909c86615a1?pvs=21) — Klasifikasi kualitas apel (random forest & gradient boosting)
--  [Data Science (Fosil)](https://www.notion.so/Data-Science-Regresi-Usia-Fosil-5e05194288a74e16b69a1a75ad4f63e2?pvs=21) — Regresi usia fosil (linear regression & decision tree regression)
--  [Data Science (Negara)](https://www.notion.so/Data-Science-Clustering-Kemakmuran-Negara-fbe693b3b3ba4a05a6087a178a53dd09?pvs=21) — Clustering kemakmuran negara (kmeans & agglomerative clustering)
+-  [Data Analyst (Netflix)](https://sultonmuhajir.notion.site/Data-Analyst-Analisis-Konten-Netflix-f25cf40ea4384f2eac7f0088eefad5fe) — Analisis konten netflix
+-  [Data Analyst (Amazon)](https://sultonmuhajir.notion.site/Data-Analyst-Analisis-Penjualan-Amazon-60c75e89688a45d5986cd2b55706dca3) — Analisis penjualan amazon
+-  [Data Science (Jantung)](https://sultonmuhajir.notion.site/Data-Science-Klasifikasi-Gagal-Jantung-91748e5dd08c4bc28a97f44c3db2725a) — Klasifikasi gagal jantung (knn & naive bayes)
+-  [Data Science (Apel)](https://sultonmuhajir.notion.site/Data-Science-Klasifikasi-Kualitas-Apel-f8412474681f4d53a2799909c86615a1) — Klasifikasi kualitas apel (random forest & gradient boosting)
+-  [Data Science (Fosil)](https://sultonmuhajir.notion.site/Data-Science-Regresi-Usia-Fosil-5e05194288a74e16b69a1a75ad4f63e2) — Regresi usia fosil (linear regression & decision tree regression)
+-  [Data Science (Negara)](https://sultonmuhajir.notion.site/Data-Science-Clustering-Kemakmuran-Negara-fbe693b3b3ba4a05a6087a178a53dd09) — Clustering kemakmuran negara (kmeans & agglomerative clustering)
 
 ### Web Tools
 
@@ -27,7 +27,6 @@
 -  [Syntax](https://sultonmuhajir.github.io/syntax/) — Aturan sintaksis dalam beberapa bahasa pemrograman
 -  [Php Dasar](https://sultonmuhajir.github.io/php-dasar/) — Review materi php dasar
 
-<br>
 <br>
 
 # Daftar Aplikasi
