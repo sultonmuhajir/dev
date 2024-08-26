@@ -3,7 +3,7 @@
 ### Landing Page
 
 -  [Portfolio 1](https://sultonmuhajir.github.io/) — Portfolio data scientist (bahasa indonesia)
--  [Portfolio 2](https://muhajirsulton.github.io/) — Portfolio web development (bahasa inggris)
+-  [Portfolio 2](https://muhajirsulton.github.io/) — Portfolio web developer (bahasa inggris)
 -  [Philes](https://sultonmuhajir.github.io/philes/) — Website philes
 -  [Fossfor](https://sultonmuhajir.github.io/fossfor/) — Website kelas SMA
 
@@ -21,6 +21,7 @@
 -  [Change Case](https://sultonmuhajir.github.io/app/change-case/) — Mengubah format teks menjadi berbagai jenis case
 -  [Get Random](https://sultonmuhajir.github.io/app/get-random/) — Mendapatkan nilai acak dari daftar yang diberikan
 -  [Text Counter](https://sultonmuhajir.github.io/app/text-counter/) — Menghitung jumlah karakter, kata, dan kalimat pada teks
+-  [Viewport Size](https://sultonmuhajir.github.io/app/viewport-size/) — Mengetahui ukuran lebar dan tinggi viewport browser
 -  [Vocabulary Quiz](https://sultonmuhajir.github.io/app/vocabulary-quiz/) — Permainan tebak kata interaktif
 
 ### Web Notes
