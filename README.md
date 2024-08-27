@@ -14,12 +14,13 @@
 -  [Data Science (Jantung)](https://sultonmuhajir.notion.site/Data-Science-Klasifikasi-Gagal-Jantung-91748e5dd08c4bc28a97f44c3db2725a) — Klasifikasi gagal jantung (knn & naive bayes)
 -  [Data Science (Apel)](https://sultonmuhajir.notion.site/Data-Science-Klasifikasi-Kualitas-Apel-f8412474681f4d53a2799909c86615a1) — Klasifikasi kualitas apel (random forest & gradient boosting)
 -  [Data Science (Fosil)](https://sultonmuhajir.notion.site/Data-Science-Regresi-Usia-Fosil-5e05194288a74e16b69a1a75ad4f63e2) — Regresi usia fosil (linear regression & decision tree regression)
--  [Data Science (Negara)](https://sultonmuhajir.notion.site/Data-Science-Clustering-Kemakmuran-Negara-fbe693b3b3ba4a05a6087a178a53dd09) — Clustering kemakmuran negara (kmeans & agglomerative clustering)
+-  [Data Science (Negara)](https://sultonmuhajir.notion.site/Data-Science-Clustering-Kemakmuran-Negara-fbe693b3b3ba4a05a6087a178a53dd09) — Clustering kemakmuran negara (kmeans & agglomerative)
 
 ### Web Tools
 
 -  [Change Case](https://sultonmuhajir.github.io/app/change-case/) — Mengubah format teks menjadi berbagai jenis case
 -  [Get Random](https://sultonmuhajir.github.io/app/get-random/) — Mendapatkan nilai acak dari daftar yang diberikan
+-  [Pixel Em](https://sultonmuhajir.github.io/app/pixel-em/) — Konversi ukuran antara satuan piksel dan em
 -  [Text Counter](https://sultonmuhajir.github.io/app/text-counter/) — Menghitung jumlah karakter, kata, dan kalimat pada teks
 -  [Viewport Size](https://sultonmuhajir.github.io/app/viewport-size/) — Mengetahui ukuran lebar dan tinggi viewport browser
 -  [Vocabulary Quiz](https://sultonmuhajir.github.io/app/vocabulary-quiz/) — Permainan tebak kata interaktif
