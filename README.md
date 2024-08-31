@@ -29,7 +29,8 @@
 ### Web Notes
 
 -  [Syntax](https://sultonmuhajir.github.io/syntax/) — Aturan sintaksis dalam beberapa bahasa pemrograman
--  [Php Dasar](https://sultonmuhajir.github.io/php-dasar/) — Review materi php dasar
+-  [Php Dasar](https://sultonmuhajir.github.io/php-dasar/) — Resume materi PHP Dasar
+-  [MySQL](https://sultonmuhajir.github.io/mysql/) — Resume materi MySQL
 
 <br>
 
