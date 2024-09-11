@@ -11,10 +11,10 @@
 
 -  [Data Analyst (Netflix)](https://sultonmuhajir.notion.site/Data-Analyst-Analisis-Konten-Netflix-f25cf40ea4384f2eac7f0088eefad5fe) — Analisis konten netflix
 -  [Data Analyst (Amazon)](https://sultonmuhajir.notion.site/Data-Analyst-Analisis-Penjualan-Amazon-60c75e89688a45d5986cd2b55706dca3) — Analisis penjualan amazon
--  [Data Science (Jantung)](https://sultonmuhajir.notion.site/Data-Science-Klasifikasi-Gagal-Jantung-91748e5dd08c4bc28a97f44c3db2725a) — Klasifikasi gagal jantung (knn & naive bayes)
--  [Data Science (Apel)](https://sultonmuhajir.notion.site/Data-Science-Klasifikasi-Kualitas-Apel-f8412474681f4d53a2799909c86615a1) — Klasifikasi kualitas apel (random forest & gradient boosting)
--  [Data Science (Fosil)](https://sultonmuhajir.notion.site/Data-Science-Regresi-Usia-Fosil-5e05194288a74e16b69a1a75ad4f63e2) — Regresi usia fosil (linear regression & decision tree regression)
--  [Data Science (Negara)](https://sultonmuhajir.notion.site/Data-Science-Clustering-Kemakmuran-Negara-fbe693b3b3ba4a05a6087a178a53dd09) — Clustering kemakmuran negara (kmeans & agglomerative)
+-  [Data Science (Heart)](https://sultonmuhajir.notion.site/Data-Science-Klasifikasi-Gagal-Jantung-91748e5dd08c4bc28a97f44c3db2725a) — Klasifikasi gagal jantung (knn & naive bayes)
+-  [Data Science (Apple)](https://sultonmuhajir.notion.site/Data-Science-Klasifikasi-Kualitas-Apel-f8412474681f4d53a2799909c86615a1) — Klasifikasi kualitas apel (random forest & gradient boosting)
+-  [Data Science (Fossil)](https://sultonmuhajir.notion.site/Data-Science-Regresi-Usia-Fosil-5e05194288a74e16b69a1a75ad4f63e2) — Regresi usia fosil (linear regression & decision tree regression)
+-  [Data Science (Country)](https://sultonmuhajir.notion.site/Data-Science-Clustering-Kemakmuran-Negara-fbe693b3b3ba4a05a6087a178a53dd09) — Clustering kemakmuran negara (kmeans & agglomerative)
 
 ### Web Tools
 
@@ -28,7 +28,7 @@
 
 ### Web Notes
 
--  [Php Dasar](https://sultonmuhajir.github.io/php-dasar/) — Resume materi PHP Dasar
+-  [Basic PHP](https://sultonmuhajir.github.io/basic-php/) — Resume materi PHP Dasar
 -  [MySQL](https://sultonmuhajir.github.io/mysql/) — Resume materi MySQL
 -  [Syntax](https://sultonmuhajir.github.io/syntax/) — Aturan sintaksis dalam beberapa bahasa pemrograman
 
@@ -38,12 +38,12 @@
 
 ### Python
 
--  [Biomedik](https://github.com/sultonmuhajir/biomedik) — Segmentasi sel darah putih
+-  [Biomedical](https://github.com/sultonmuhajir/biomedical) — Segmentasi sel darah putih
 -  [Edge Detection](https://github.com/sultonmuhajir/edge-detection) — Pengolahan citra deteksi tepi
 -  [Feature Extraction](https://github.com/sultonmuhajir/feature-extraction) — Pengolahan citra ekstraksi fitur
--  [Ghost Ngayang](https://github.com/sultonmuhajir/ghost-ngayang) — Game sederhana menggunakan pygame
--  [Sewa Gedung](https://github.com/sultonmuhajir/sewa-gedung) — Aplikasi desktop penyewaan gedung
--  [App Python](https://github.com/sultonmuhajir/app-python) — Kumpulan tools python
+-  [Jumping Ghost](https://github.com/sultonmuhajir/jumping-ghost) — Game sederhana menggunakan pygame
+-  [Building Rental](https://github.com/sultonmuhajir/building-rental) — Aplikasi desktop penyewaan gedung
+-  [Python App](https://github.com/sultonmuhajir/python-app) — Kumpulan aplikasi python sederhana
 
 ### C#
 
